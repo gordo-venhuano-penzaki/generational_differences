@@ -16,7 +16,6 @@ problems --
 - upkeep
 - propagation of expantion due the process flaws.
 
-
 *** FOR THE COLD WAR GENERATIONS ***
 x86
 
